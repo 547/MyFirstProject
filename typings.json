@@ -3,3 +3,5 @@
     "react-native": "registry:dt/react-native#0.42.0+20170324170601"
   }
 }
+//生成typings.json文件才有比较好的 代码自动补全功能
+//生成 typings.json文件 的方法如下： 在项目根目录下 终端运行 typings install dt~react-native --save --g
